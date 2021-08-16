@@ -1,6 +1,6 @@
 # International Pencil Drawing Exhibition
 
-Note: All of the following commands must be run in the root folder of the project.
+Note: The npm and git commands must be run in the root folder of the project.
 
 ## npm commands
 
