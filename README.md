@@ -74,9 +74,9 @@ List all the files and folders inside the current folder
 4. If needed, run `npm install` to install new code libraries.
 5. Run `npm run start` to start the app.
 6. Open the code for the app in Atom and make your changes.
-  * The app that is running on your local machine updates every time you save your code.
-  * `File > Add Project Folder...` adds a project to the Atom workspace.
-  * Right click a project and press `Remove Project Folder` to remove a project from the Atom workspace. (This does not delete the project.)
+    * The app that is running on your local machine updates every time you save your code.
+    * `File > Add Project Folder...` adds a project to the Atom workspace.
+    * Right click a project and press `Remove Project Folder` to remove a project from the Atom workspace. (This does not delete the project.)
 7. When you're done making changes, go back to Git Bash and press Ctrl+C to stop the app.
 8. Run `git add .`.
 9. Run `git commit -m "<message>"`.
