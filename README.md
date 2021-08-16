@@ -6,65 +6,32 @@ Note: All of the following commands must be run in the root folder of the projec
 
 These commands are used to set up or deploy the React app.
 
-### `npm install`
-
-Installs the code libraries required for the app to run
-
-### `npm run start`
-
-Runs the app on your local machine at localhost:3000
-
-### `npm run deploy`
-
-Deploys the app to https://pencilde.com
+* `npm install` - Installs the code libraries required for the app to run
+* `npm run start` - Runs the app on your local machine at localhost:3000
+* `npm run deploy` - Deploys the app to https://pencilde.com
 
 ## git commands
 
-These commands are used to sync the code between your local machine and the GitHub repository (where the app is stored online).
+These commands are used to sync the code between your local machine and the GitHub repository (where the app is stored online). Git keeps track of any changes you make that are "committed" - if you make a grave mistake, it is possible to revert to a previous commit.
 
-### `git status`
-
-Shows which branch you are on and whether you have any changes on your local machine that have not been committed yet
-
-### `git pull origin master`
-
-Get the changes from the GitHub repository onto your local machine
-
-### `git add .`
-
-Tell git to include all your edits in the next commit
-
-### `git commit -m "<message>"`
-
-Commit the changes on your local machine (all your commits are tracked, so you can revert to a previous commit if the new commit contains errors)
-
-### `git push origin master`
-
-Push your new commit(s) to the GitHub repository
+* `git status` - Shows the branch you are on and any uncommitted changes
+* `git pull origin master` - Get the changes from the GitHub repository onto your local machine
+* `git add .` - Tell git to include all your edits in the next commit
+* `git commit -m "<message>"` - Commit the changes on your local machine
+* `git push origin master` - Push your new commit(s) to the GitHub repository
 
 ## cd commands
 
 These commands are used to navigate between folders in the command line (Git Bash).
 
-### `cd ../`
-
-Move to the parent folder
-
-### `cd ../../`
-
-Move up to the parent folder of the parent folder (you can type in `../` as many times at once as necessary)
-
-### `cd <name of folder>`
-
-Move into a folder (i.e. `cd folder1` would move into the "folder1" folder)
-
-### `cd folder1/folder2`
-
-Move into the "folder2" folder inside the "folder1" folder (can use `/` as many times as necessary)
-
-### `ls`
-
-List all the files and folders inside the current folder
+* `cd ../` - Move to the parent folder
+* `cd ../../` - Move up to the parent folder of the parent folder
+    * You can type in `../` as many times at once as necessary
+* `cd <name of folder>` - Move into a folder
+    * i.e. `cd folder1` would move into the "folder1" folder
+* `cd folder1/folder2` - Move into the "folder2" folder inside the "folder1" folder
+    * You can use `/` as many times as necessary
+* `ls` - List all the files and folders inside the current folder
 
 ## Complete workflow
 
