@@ -78,7 +78,7 @@ List all the files and folders inside the current folder
     * `File > Add Project Folder...` adds a project to the Atom workspace.
     * Right click a project and press `Remove Project Folder` to remove a project from the Atom workspace. (This does not delete the project.)
 7. When you're done making changes, go back to Git Bash and press Ctrl+C to stop the app.
-8. Run `git add .`.
-9. Run `git commit -m "<message>"`.
-10. Run `git push origin master`.
-11. Run `npm run deploy`. The changes should show on https://pencilde.com within the next 5 minutes.
+8. Run `git add .`
+9. Run `git commit -m "<message>"`
+10. Run `git push origin master`
+11. Run `npm run deploy` - the changes should show on https://pencilde.com within the next 5 minutes.
