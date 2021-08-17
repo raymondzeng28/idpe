@@ -1,0 +1,42 @@
+$accent1: #405c17;
+
+.nav-bar {
+  border-bottom: 1px solid $accent1;
+  display: flex;
+  flex-direction: row;
+
+  .logo-container {
+    flex-basis: 25%;
+
+    .site-logo {
+      display: block;
+      width: 100%;
+    }
+  }
+
+  .links-container {
+    flex-grow: 1;
+
+    ul {
+      list-style-type: none;
+      margin: 40px auto;
+      font-size: 17px;
+
+      li {
+        display: inline;
+        padding-left: 15px;
+        padding-right: 15px;
+
+        a {
+          color: white;
+          text-decoration: none;
+          padding-bottom: 10px;
+        }
+
+        a:hover {
+          border-bottom: 1px solid $accent1;
+        }
+      }
+    }
+  }
+}
