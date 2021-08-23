@@ -110,7 +110,7 @@ class About extends React.Component {
   render() {
     return (
       <div className="body-wide-content">
-        <h2>Youth</h2>
+        <h2>Youth Category</h2>
         <Gallery pictures={this.state.pictures1}/>
       </div>
     );

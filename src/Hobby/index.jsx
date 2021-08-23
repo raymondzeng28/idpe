@@ -38,7 +38,7 @@ class Hobby extends React.Component {
   render() {
     return (
       <div className="body-wide-content">
-        <h2>Hobby</h2>
+        <h2>Hobbyist Category</h2>
         <Gallery pictures={this.state.pictures1}/>
       </div>
     );

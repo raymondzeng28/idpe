@@ -1,4 +1,5 @@
 $accent1: #405c17;
+$accent2: #FFFF88;
 
 .content {
   width: 1000px;
@@ -12,4 +13,11 @@ $accent1: #405c17;
   padding-top: 1em;
   padding-bottom: 1em;
   margin-top: 1.8em;
+}
+
+h2 {
+  text-align: center;
+  color: $accent2;
+  font-size: 1.2em;
+  margin: 1em;
 }

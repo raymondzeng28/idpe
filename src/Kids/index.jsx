@@ -94,7 +94,7 @@ class Kids extends React.Component {
   render() {
     return (
       <div className="body-wide-content">
-        <h2>Kids</h2>
+        <h2>Kids Category</h2>
         <Gallery pictures={this.state.pictures1}/>
       </div>
     );

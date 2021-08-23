@@ -15,11 +15,13 @@ class Gallery extends React.Component {
       },
       landscapeTextStyle: {
         clear: "both",
-        textAlign: "center"
+        textAlign: "center",
+        color: "#FFFF88"
       },
       portraitTextStyle: {
         display: "inline-block",
-        marginLeft: "30px"
+        marginLeft: "30px",
+        color: "#FFFF88"
       },
       titleTextStyle: {
         fontStyle: "italic",

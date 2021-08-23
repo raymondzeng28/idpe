@@ -94,7 +94,7 @@ class Professional extends React.Component {
   render() {
     return (
       <div className="body-wide-content">
-        <h2>Professional</h2>
+        <h2>Professional Category</h2>
         <Gallery pictures={this.state.pictures1}/>
       </div>
     );
