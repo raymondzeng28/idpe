@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.73790203.chunk.css",
-    "main.js": "/static/js/main.bda6cdb9.chunk.js",
-    "main.js.map": "/static/js/main.bda6cdb9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c3101ea8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c3101ea8.js.map",
-    "static/js/2.8ffc3719.chunk.js": "/static/js/2.8ffc3719.chunk.js",
-    "static/js/2.8ffc3719.chunk.js.map": "/static/js/2.8ffc3719.chunk.js.map",
-    "static/js/3.291f803a.chunk.js": "/static/js/3.291f803a.chunk.js",
-    "static/js/3.291f803a.chunk.js.map": "/static/js/3.291f803a.chunk.js.map",
+    "main.css": "/static/css/main.6827ac6d.chunk.css",
+    "main.js": "/static/js/main.1d1608f4.chunk.js",
+    "main.js.map": "/static/js/main.1d1608f4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f8c7d895.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f8c7d895.js.map",
+    "static/js/2.8f8caa5a.chunk.js": "/static/js/2.8f8caa5a.chunk.js",
+    "static/js/2.8f8caa5a.chunk.js.map": "/static/js/2.8f8caa5a.chunk.js.map",
+    "static/js/3.947030ff.chunk.js": "/static/js/3.947030ff.chunk.js",
+    "static/js/3.947030ff.chunk.js.map": "/static/js/3.947030ff.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.73790203.chunk.css.map": "/static/css/main.73790203.chunk.css.map",
-    "static/js/2.8ffc3719.chunk.js.LICENSE.txt": "/static/js/2.8ffc3719.chunk.js.LICENSE.txt",
-    "static/media/site_logo.928e6609.png": "/static/media/site_logo.928e6609.png"
+    "static/css/main.6827ac6d.chunk.css.map": "/static/css/main.6827ac6d.chunk.css.map",
+    "static/js/2.8f8caa5a.chunk.js.LICENSE.txt": "/static/js/2.8f8caa5a.chunk.js.LICENSE.txt",
+    "static/media/Hobby": "/static/media/Hobby.31d6cfe0.bin",
+    "static/media/bamboo_and_boats.jpg": "/static/media/bamboo_and_boats.c84a94b7.jpg",
+    "static/media/bamboo_and_cranes.jpg": "/static/media/bamboo_and_cranes.1c8c22a1.jpg",
+    "static/media/blossom_village.jpg": "/static/media/blossom_village.92eb483b.jpg",
+    "static/media/chang_hua.JPG": "/static/media/chang_hua.0f64b8f1.JPG",
+    "static/media/site_logo.png": "/static/media/site_logo.928e6609.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c3101ea8.js",
-    "static/js/2.8ffc3719.chunk.js",
-    "static/css/main.73790203.chunk.css",
-    "static/js/main.bda6cdb9.chunk.js"
+    "static/js/runtime-main.f8c7d895.js",
+    "static/js/2.8f8caa5a.chunk.js",
+    "static/css/main.6827ac6d.chunk.css",
+    "static/js/main.1d1608f4.chunk.js"
   ]
 }
