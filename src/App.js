@@ -11,6 +11,7 @@ import Professional from "./Professional/index";
 import Hobby from "./Hobby/index";
 import Founder from "./Founder/index";
 import Other from "./Other/index";
+import Footer from "./Shared/Footer";
 
 class App extends React.Component {
   constructor(props) {
@@ -62,6 +63,7 @@ class App extends React.Component {
               </Switch>
             </div>
           </HashRouter>
+          <Footer />
         </div>
       </div>
     );
