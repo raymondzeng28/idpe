@@ -13,7 +13,7 @@ class About extends React.Component {
           height: null,
           width: 630,
           title: `Horse`,
-          description: `Artist: Lucy Cao`
+          description: `Artist: Lucy C.`
         },
         {
           orientation: `landscape`,
@@ -21,7 +21,7 @@ class About extends React.Component {
           height: 550,
           width: null,
           title: `Portrait`,
-          description: `Artist: Nicole Li`
+          description: `Artist: Nicole L.`
         },
         {
           orientation: `landscape`,
@@ -29,7 +29,7 @@ class About extends React.Component {
           height: null,
           width: 630,
           title: `Cat`,
-          description: `Artist: Vienne Kwok`
+          description: `Artist: Vienne K.`
         },
         {
           orientation: `landscape`,
@@ -37,7 +37,7 @@ class About extends React.Component {
           height: 550,
           width: null,
           title: `Portrait`,
-          description: `Artist: Selina Zhang`
+          description: `Artist: Selina Z.`
         },
         {
           orientation: `landscape`,
@@ -45,7 +45,7 @@ class About extends React.Component {
           height: null,
           width: 630,
           title: `Bridge`,
-          description: `Artist: Hanson Zhou`
+          description: `Artist: Hanson Z.`
         },
         {
           orientation: `landscape`,
@@ -53,7 +53,7 @@ class About extends React.Component {
           height: 550,
           width: null,
           title: `Portrait`,
-          description: `Artist: Lina Yang`
+          description: `Artist: Lina Y.`
         },
         {
           orientation: `landscape`,
@@ -61,7 +61,7 @@ class About extends React.Component {
           height: null,
           width: 630,
           title: `School Supplies`,
-          description: `Artist: Lindsay Yan`
+          description: `Artist: Lindsay Y.`
         },
         {
           orientation: `landscape`,
@@ -69,7 +69,7 @@ class About extends React.Component {
           height: null,
           width: 630,
           title: `Rooster`,
-          description: `Artist: Andy`
+          description: `Artist: Andy D.`
         },
         {
           orientation: `landscape`,
@@ -77,7 +77,7 @@ class About extends React.Component {
           height: 550,
           width: null,
           title: `Man with Gratitude`,
-          description: `Artist: Ethan Gao`
+          description: `Artist: Ethan G.`
         },
         {
           orientation: `landscape`,
@@ -85,7 +85,7 @@ class About extends React.Component {
           height: null,
           width: 630,
           title: `Manta Ray`,
-          description: `Artist: Lena Li`
+          description: `Artist: Lena L.`
         },
         {
           orientation: `landscape`,
@@ -93,7 +93,7 @@ class About extends React.Component {
           height: 550,
           width: null,
           title: `Dog`,
-          description: `Artist: Selina Fu`
+          description: `Artist: Selina F.`
         },
         {
           orientation: `landscape`,
@@ -101,7 +101,7 @@ class About extends React.Component {
           height: 550,
           width: null,
           title: `Math Teacher`,
-          description: `Artist: Stephan Liang`
+          description: `Artist: Stephan L.`
         }
       ]
     };

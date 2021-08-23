@@ -13,7 +13,7 @@ class Kids extends React.Component {
           height: null,
           width: 630,
           title: `Bull`,
-          description: `Artist: Ryan Liu`
+          description: `Artist: Ryan L.`
         },
         {
           orientation: `landscape`,
@@ -21,7 +21,7 @@ class Kids extends React.Component {
           height: null,
           width: 630,
           title: `Owls`,
-          description: `Artist: Kexin Wang`
+          description: `Artist: Kexin W.`
         },
         {
           orientation: `landscape`,
@@ -29,7 +29,7 @@ class Kids extends React.Component {
           height: null,
           width: 630,
           title: `Pelicans`,
-          description: `Artist: Rachel Liu`
+          description: `Artist: Rachel L.`
         },
         {
           orientation: `landscape`,
@@ -37,7 +37,7 @@ class Kids extends React.Component {
           height: null,
           width: 630,
           title: `Koala`,
-          description: `Artist: Lucas Zhang`
+          description: `Artist: Lucas Z.`
         },
         {
           orientation: `landscape`,
@@ -45,7 +45,7 @@ class Kids extends React.Component {
           height: null,
           width: 630,
           title: `Fish`,
-          description: `Artist: Wesley Xu`
+          description: `Artist: Wesley X.`
         },
         {
           orientation: `landscape`,
@@ -53,7 +53,7 @@ class Kids extends React.Component {
           height: null,
           width: 630,
           title: `Walrus`,
-          description: `Artist: Emma Gao`
+          description: `Artist: Emma G.`
         },
         {
           orientation: `landscape`,
@@ -61,7 +61,7 @@ class Kids extends React.Component {
           height: null,
           width: 630,
           title: `Fish`,
-          description: `Artist: Chenxing Wang`
+          description: `Artist: Chenxing W.`
         },
         {
           orientation: `landscape`,
@@ -69,7 +69,7 @@ class Kids extends React.Component {
           height: null,
           width: 630,
           title: `Gemsbok`,
-          description: `Artist: Tony Li`
+          description: `Artist: Tony L.`
         },
         {
           orientation: `landscape`,
@@ -77,7 +77,7 @@ class Kids extends React.Component {
           height: null,
           width: 630,
           title: `Seal`,
-          description: `Artist: Zhongyu Wang`
+          description: `Artist: Zhongyu W.`
         },
         {
           orientation: `landscape`,
@@ -85,7 +85,7 @@ class Kids extends React.Component {
           height: null,
           width: 630,
           title: `River Otter`,
-          description: `Artist: Ryan Zhang`
+          description: `Artist: Ryan Z.`
         }
       ]
     };

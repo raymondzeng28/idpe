@@ -13,7 +13,7 @@ class Hobby extends React.Component {
           height: null,
           width: 630,
           title: `Woman with Sphere`,
-          description: `Artist: Karen Zou`
+          description: `Artist: Karen Z.`
         },
         {
           orientation: `landscape`,
@@ -21,7 +21,7 @@ class Hobby extends React.Component {
           height: 550,
           width: null,
           title: `Dancer`,
-          description: `Artist: Jenny Huang`
+          description: `Artist: Jenny H.`
         },
         {
           orientation: `landscape`,
@@ -29,7 +29,7 @@ class Hobby extends React.Component {
           height: null,
           width: 630,
           title: `Bee`,
-          description: `Artist: Jack Liang`
+          description: `Artist: Jack L.`
         }
       ]
     };
