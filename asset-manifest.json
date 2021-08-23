@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.6827ac6d.chunk.css",
-    "main.js": "/static/js/main.fd729927.chunk.js",
-    "main.js.map": "/static/js/main.fd729927.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.47b3f9ff.js",
-    "runtime-main.js.map": "/static/js/runtime-main.47b3f9ff.js.map",
+    "main.js": "/static/js/main.53fe4a65.chunk.js",
+    "main.js.map": "/static/js/main.53fe4a65.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.209ab8f0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.209ab8f0.js.map",
     "static/js/2.8f8caa5a.chunk.js": "/static/js/2.8f8caa5a.chunk.js",
     "static/js/2.8f8caa5a.chunk.js.map": "/static/js/2.8f8caa5a.chunk.js.map",
-    "static/js/3.103464cf.chunk.js": "/static/js/3.103464cf.chunk.js",
-    "static/js/3.103464cf.chunk.js.map": "/static/js/3.103464cf.chunk.js.map",
+    "static/js/3.a72e3107.chunk.js": "/static/js/3.a72e3107.chunk.js",
+    "static/js/3.a72e3107.chunk.js.map": "/static/js/3.a72e3107.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.6827ac6d.chunk.css.map": "/static/css/main.6827ac6d.chunk.css.map",
     "static/js/2.8f8caa5a.chunk.js.LICENSE.txt": "/static/js/2.8f8caa5a.chunk.js.LICENSE.txt",
     "static/media/Andy_Rooster.jpg": "/static/media/Andy_Rooster.33ea9c77.jpg",
+    "static/media/Bust.jpg": "/static/media/Bust.72aab692.jpg",
     "static/media/EmmaGaoWalrus.jpg": "/static/media/EmmaGaoWalrus.7c9c525d.jpg",
     "static/media/Ethan_Gao_Man.jpg": "/static/media/Ethan_Gao_Man.32dbb1e4.jpg",
     "static/media/Hanson_Z_Bridge.jpg": "/static/media/Hanson_Z_Bridge.2e6effe2.jpg",
@@ -36,17 +37,26 @@
     "static/media/Vienne_Kwok_Cat.jpg": "/static/media/Vienne_Kwok_Cat.5e37eb11.jpg",
     "static/media/WesleyFish.png": "/static/media/WesleyFish.66c2bc06.png",
     "static/media/Zhongyu_Seal.jpg": "/static/media/Zhongyu_Seal.6d388c74.jpg",
+    "static/media/a_bridge_in_europe.jpg": "/static/media/a_bridge_in_europe.454e25ea.jpg",
+    "static/media/a_laughing_gentleman.jpg": "/static/media/a_laughing_gentleman.1a0b6fb3.jpg",
+    "static/media/an_art_student.jpg": "/static/media/an_art_student.41bc9145.jpg",
     "static/media/bamboo_and_boats.jpg": "/static/media/bamboo_and_boats.c84a94b7.jpg",
     "static/media/bamboo_and_cranes.jpg": "/static/media/bamboo_and_cranes.1c8c22a1.jpg",
     "static/media/blossom_village.jpg": "/static/media/blossom_village.92eb483b.jpg",
     "static/media/chang_hua.JPG": "/static/media/chang_hua.0f64b8f1.JPG",
     "static/media/chenxing_fish.jpg": "/static/media/chenxing_fish.f40dd4bb.jpg",
-    "static/media/site_logo.png": "/static/media/site_logo.928e6609.png"
+    "static/media/man_with_glasses.jpg": "/static/media/man_with_glasses.d8aec970.jpg",
+    "static/media/mermaid.jpg": "/static/media/mermaid.5bb1aec2.jpg",
+    "static/media/red_panda.jpg": "/static/media/red_panda.bf881cc7.jpg",
+    "static/media/refining_rice.jpg": "/static/media/refining_rice.944b5219.jpg",
+    "static/media/site_logo.png": "/static/media/site_logo.928e6609.png",
+    "static/media/student.JPG": "/static/media/student.790aadf7.JPG",
+    "static/media/temple_by_the_sea.jpg": "/static/media/temple_by_the_sea.72168f5f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.47b3f9ff.js",
+    "static/js/runtime-main.209ab8f0.js",
     "static/js/2.8f8caa5a.chunk.js",
     "static/css/main.6827ac6d.chunk.css",
-    "static/js/main.fd729927.chunk.js"
+    "static/js/main.53fe4a65.chunk.js"
   ]
 }
