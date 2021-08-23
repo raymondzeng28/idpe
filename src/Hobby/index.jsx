@@ -8,20 +8,28 @@ class Hobby extends React.Component {
     this.state = {
       pictures1: [
         {
-          orientation: `portrait`,
-          source: `Images/Test/bamboo_and_boats.jpg`,
-          height: 550,
-          width: null,
-          title: `Bamboo and Boats`,
-          description: `Artist: Xiangming Zeng`
+          orientation: `landscape`,
+          source: `Images/Hobby/Karen_Zou_Woman.jpg`,
+          height: null,
+          width: 630,
+          title: `Woman with Sphere`,
+          description: `Artist: Karen Zou`
         },
         {
           orientation: `landscape`,
-          source: `Images/Test/bamboo_and_cranes.jpg`,
+          source: `Images/Hobby/Jenny_Huang_Dancer.jpg`,
+          height: 550,
+          width: null,
+          title: `Dancer`,
+          description: `Artist: Jenny Huang`
+        },
+        {
+          orientation: `landscape`,
+          source: `Images/Hobby/Jack_Liang_Bee.jpg`,
           height: null,
-          width: 650,
-          title: `Bamboo and Cranes`,
-          description: `Artist: Xiangming Zeng`
+          width: 630,
+          title: `Bee`,
+          description: `Artist: Jack Liang`
         }
       ]
     };

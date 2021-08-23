@@ -8,7 +8,7 @@ class About extends React.Component {
     this.state = {
       pictures1: [
         {
-          orientation: `portrait`,
+          orientation: `landscape`,
           source: `Images/Test/bamboo_and_boats.jpg`,
           height: 550,
           width: null,
