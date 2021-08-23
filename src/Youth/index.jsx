@@ -9,19 +9,99 @@ class About extends React.Component {
       pictures1: [
         {
           orientation: `landscape`,
-          source: `Images/Test/bamboo_and_boats.jpg`,
-          height: 550,
-          width: null,
-          title: `Bamboo and Boats`,
-          description: `Artist: Xiangming Zeng`
+          source: `Images/Youth/Lucy_Cao_Horse.jpg`,
+          height: null,
+          width: 630,
+          title: `Horse`,
+          description: `Artist: Lucy Cao`
         },
         {
           orientation: `landscape`,
-          source: `Images/Test/bamboo_and_cranes.jpg`,
+          source: `Images/Youth/Nicole_Li_Portrait.jpg`,
+          height: 550,
+          width: null,
+          title: `Portrait`,
+          description: `Artist: Nicole Li`
+        },
+        {
+          orientation: `landscape`,
+          source: `Images/Youth/Vienne_Kwok_Cat.jpg`,
           height: null,
-          width: 650,
-          title: `Bamboo and Cranes`,
-          description: `Artist: Xiangming Zeng`
+          width: 630,
+          title: `Cat`,
+          description: `Artist: Vienne Kwok`
+        },
+        {
+          orientation: `landscape`,
+          source: `Images/Youth/SelinaZhangPortrait.jpg`,
+          height: 550,
+          width: null,
+          title: `Portrait`,
+          description: `Artist: Selina Zhang`
+        },
+        {
+          orientation: `landscape`,
+          source: `Images/Youth/Hanson_Z_Bridge.jpg`,
+          height: null,
+          width: 630,
+          title: `Bridge`,
+          description: `Artist: Hanson Zhou`
+        },
+        {
+          orientation: `landscape`,
+          source: `Images/Youth/LinaYangSelfPortrait.JPG`,
+          height: 550,
+          width: null,
+          title: `Portrait`,
+          description: `Artist: Lina Yang`
+        },
+        {
+          orientation: `landscape`,
+          source: `Images/Youth/Lindsay_Yan_School_Supplies.jpg`,
+          height: null,
+          width: 630,
+          title: `School Supplies`,
+          description: `Artist: Lindsay Yan`
+        },
+        {
+          orientation: `landscape`,
+          source: `Images/Youth/Andy_Rooster.jpg`,
+          height: null,
+          width: 630,
+          title: `Rooster`,
+          description: `Artist: Andy`
+        },
+        {
+          orientation: `landscape`,
+          source: `Images/Youth/Ethan_Gao_Man.jpg`,
+          height: 550,
+          width: null,
+          title: `Man with Gratitude`,
+          description: `Artist: Ethan Gao`
+        },
+        {
+          orientation: `landscape`,
+          source: `Images/Youth/LenaMantaRay.jpg`,
+          height: null,
+          width: 630,
+          title: `Manta Ray`,
+          description: `Artist: Lena Li`
+        },
+        {
+          orientation: `landscape`,
+          source: `Images/Youth/SelinaFuDog.jpg`,
+          height: 550,
+          width: null,
+          title: `Dog`,
+          description: `Artist: Selina Fu`
+        },
+        {
+          orientation: `landscape`,
+          source: `Images/Youth/Stephan_Liang_Math_Teacher.jpg`,
+          height: 550,
+          width: null,
+          title: `Math Teacher`,
+          description: `Artist: Stephan Liang`
         }
       ]
     };
