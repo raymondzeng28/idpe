@@ -21,7 +21,7 @@ class Gallery extends React.Component {
       portraitTextStyle: {
         display: "inline-block",
         marginLeft: "30px",
-        color: "#FFFF88"
+        color: "#FFFF99"
       },
       titleTextStyle: {
         fontStyle: "italic",
