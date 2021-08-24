@@ -16,7 +16,8 @@ class Gallery extends React.Component {
       landscapeTextStyle: {
         clear: "both",
         textAlign: "center",
-        color: "#FFFF88"
+        color: "#FFFF88",
+        marginTop: "1.5em"
       },
       portraitTextStyle: {
         display: "inline-block",

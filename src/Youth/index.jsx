@@ -33,18 +33,10 @@ class About extends React.Component {
         },
         {
           orientation: `landscape`,
-          source: `Images/Youth/SelinaZhangPortrait.jpg`,
-          height: 550,
+          source: `Images/Youth/hansonstreet.jpg`,
+          height: 530,
           width: null,
-          title: `Portrait`,
-          description: `Artist: Selina Z.`
-        },
-        {
-          orientation: `landscape`,
-          source: `Images/Youth/Hanson_Z_Bridge.jpg`,
-          height: null,
-          width: 630,
-          title: `Bridge`,
+          title: `Down the Street`,
           description: `Artist: Hanson Z.`
         },
         {
@@ -78,6 +70,14 @@ class About extends React.Component {
           width: null,
           title: `Man with Gratitude`,
           description: `Artist: Ethan G.`
+        },
+        {
+          orientation: `landscape`,
+          source: `Images/Youth/SelinaZhangPortrait.jpg`,
+          height: 550,
+          width: null,
+          title: `Portrait`,
+          description: `Artist: Selina Z.`
         },
         {
           orientation: `landscape`,

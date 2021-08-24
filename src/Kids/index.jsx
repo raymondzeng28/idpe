@@ -11,7 +11,7 @@ class Kids extends React.Component {
           orientation: `landscape`,
           source: `Images/Kids/RyanLiuBull.jpg`,
           height: null,
-          width: 630,
+          width: 600,
           title: `Bull`,
           description: `Artist: Ryan L.`
         },
@@ -19,7 +19,7 @@ class Kids extends React.Component {
           orientation: `landscape`,
           source: `Images/Kids/KexinOwls.jpg`,
           height: null,
-          width: 630,
+          width: 600,
           title: `Owls`,
           description: `Artist: Kexin W.`
         },
@@ -27,23 +27,23 @@ class Kids extends React.Component {
           orientation: `landscape`,
           source: `Images/Kids/RachelLiuPelicans.jpg`,
           height: null,
-          width: 630,
+          width: 600,
           title: `Pelicans`,
           description: `Artist: Rachel L.`
         },
         {
           orientation: `landscape`,
-          source: `Images/Kids/LucasZhangKoala.jpg`,
+          source: `Images/Kids/lucas_bird.jpg`,
           height: null,
-          width: 630,
-          title: `Koala`,
+          width: 600,
+          title: `Bird`,
           description: `Artist: Lucas Z.`
         },
         {
           orientation: `landscape`,
           source: `Images/Kids/WesleyFish.png`,
           height: null,
-          width: 630,
+          width: 600,
           title: `Fish`,
           description: `Artist: Wesley X.`
         },
@@ -51,7 +51,7 @@ class Kids extends React.Component {
           orientation: `landscape`,
           source: `Images/Kids/EmmaGaoWalrus.jpg`,
           height: null,
-          width: 630,
+          width: 600,
           title: `Walrus`,
           description: `Artist: Emma G.`
         },
@@ -59,7 +59,7 @@ class Kids extends React.Component {
           orientation: `landscape`,
           source: `Images/Kids/chenxing_fish.jpg`,
           height: null,
-          width: 630,
+          width: 600,
           title: `Fish`,
           description: `Artist: Chenxing W.`
         },
@@ -67,7 +67,7 @@ class Kids extends React.Component {
           orientation: `landscape`,
           source: `Images/Kids/TonyGemsbok.png`,
           height: null,
-          width: 630,
+          width: 600,
           title: `Gemsbok`,
           description: `Artist: Tony L.`
         },
@@ -75,7 +75,7 @@ class Kids extends React.Component {
           orientation: `landscape`,
           source: `Images/Kids/Zhongyu_Seal.jpg`,
           height: null,
-          width: 630,
+          width: 600,
           title: `Seal`,
           description: `Artist: Zhongyu W.`
         },
@@ -83,7 +83,7 @@ class Kids extends React.Component {
           orientation: `landscape`,
           source: `Images/Kids/RyanZhangRiverOtter.jpg`,
           height: null,
-          width: 630,
+          width: 600,
           title: `River Otter`,
           description: `Artist: Ryan Z.`
         }
