@@ -38,7 +38,7 @@ class App extends React.Component {
     if (screenWidth < 800) {
       let zoomRatio = screenWidth / 800;
       viewportMetaTag.setAttribute("content", "initial-scale=" + zoomRatio + ", maximum-scale=" +
-        zoomRatio + ", minimum-scale=" + zoomRatio + ", user-scalable=no, width=" + screenWidth);
+        zoomRatio + ", minimum-scale=" + zoomRatio + ", width=" + screenWidth);
     } else {
       viewportMetaTag.setAttribute("content", "width=device-width, initial-scale=1");
     }
