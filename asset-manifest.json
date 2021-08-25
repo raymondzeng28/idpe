@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.cb6f3d43.chunk.css",
-    "main.js": "/static/js/main.fbb87530.chunk.js",
-    "main.js.map": "/static/js/main.fbb87530.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.209ab8f0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.209ab8f0.js.map",
-    "static/js/2.8f8caa5a.chunk.js": "/static/js/2.8f8caa5a.chunk.js",
-    "static/js/2.8f8caa5a.chunk.js.map": "/static/js/2.8f8caa5a.chunk.js.map",
-    "static/js/3.a72e3107.chunk.js": "/static/js/3.a72e3107.chunk.js",
-    "static/js/3.a72e3107.chunk.js.map": "/static/js/3.a72e3107.chunk.js.map",
+    "main.css": "/static/css/main.039b9082.chunk.css",
+    "main.js": "/static/js/main.d7d21300.chunk.js",
+    "main.js.map": "/static/js/main.d7d21300.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1bb55af9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1bb55af9.js.map",
+    "static/js/2.4fd58e79.chunk.js": "/static/js/2.4fd58e79.chunk.js",
+    "static/js/2.4fd58e79.chunk.js.map": "/static/js/2.4fd58e79.chunk.js.map",
+    "static/js/3.714d7dcc.chunk.js": "/static/js/3.714d7dcc.chunk.js",
+    "static/js/3.714d7dcc.chunk.js.map": "/static/js/3.714d7dcc.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.cb6f3d43.chunk.css.map": "/static/css/main.cb6f3d43.chunk.css.map",
-    "static/js/2.8f8caa5a.chunk.js.LICENSE.txt": "/static/js/2.8f8caa5a.chunk.js.LICENSE.txt",
+    "static/css/main.039b9082.chunk.css.map": "/static/css/main.039b9082.chunk.css.map",
+    "static/js/2.4fd58e79.chunk.js.LICENSE.txt": "/static/js/2.4fd58e79.chunk.js.LICENSE.txt",
     "static/media/Andy_Rooster.jpg": "/static/media/Andy_Rooster.33ea9c77.jpg",
     "static/media/Bust.jpg": "/static/media/Bust.72aab692.jpg",
     "static/media/EmmaGaoWalrus.jpg": "/static/media/EmmaGaoWalrus.7c9c525d.jpg",
@@ -50,13 +50,14 @@
     "static/media/red_panda.jpg": "/static/media/red_panda.bf881cc7.jpg",
     "static/media/refining_rice.jpg": "/static/media/refining_rice.944b5219.jpg",
     "static/media/site_logo.png": "/static/media/site_logo.928e6609.png",
+    "static/media/site_logo_mobile.png": "/static/media/site_logo_mobile.047d9675.png",
     "static/media/student.JPG": "/static/media/student.790aadf7.JPG",
     "static/media/temple_by_the_sea.jpg": "/static/media/temple_by_the_sea.72168f5f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.209ab8f0.js",
-    "static/js/2.8f8caa5a.chunk.js",
-    "static/css/main.cb6f3d43.chunk.css",
-    "static/js/main.fbb87530.chunk.js"
+    "static/js/runtime-main.1bb55af9.js",
+    "static/js/2.4fd58e79.chunk.js",
+    "static/css/main.039b9082.chunk.css",
+    "static/js/main.d7d21300.chunk.js"
   ]
 }
