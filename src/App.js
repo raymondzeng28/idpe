@@ -26,6 +26,25 @@ class App extends React.Component {
       {"name": "Founder", "route": "/founder", "component": Founder},
       {"name": "Other", "route": "/other", "component": Other}
     ];
+    this.state = {
+      screenWidth: 0
+    };
+  }
+
+  componentDidMount() {
+    // resize website to fit smaller screens
+    let screenWidth = window.screen.width;
+    let viewportMetaTag = document.getElementById("viewport");
+    if (screenWidth < 800) {
+      let zoomRatio = screenWidth / 800;
+      viewportMetaTag.setAttribute("content", "initial-scale=" + zoomRatio + ", maximum-scale=" +
+        zoomRatio + ", minimum-scale=" + zoomRatio + ", user-scalable=no, width=" + screenWidth);
+    } else {
+      viewportMetaTag.setAttribute("content", "width=device-width, initial-scale=1");
+    }
+    this.setState({
+      screenWidth: screenWidth
+    });
   }
 
   render() {

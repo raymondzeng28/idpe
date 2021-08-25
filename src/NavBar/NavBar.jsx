@@ -2,6 +2,7 @@ import React from 'react';
 import {Link} from 'react-router-dom';
 import './NavBar.scss';
 import logo from 'Images/site_logo.png';
+import logo_mobile from 'Images/site_logo_mobile.png';
 
 class NavBar extends React.Component {
   constructor(props) {
@@ -24,6 +25,9 @@ class NavBar extends React.Component {
       <div className={"nav-bar"}>
         <div className={"logo-container"}>
           <img className={"site-logo"} alt={"International Pencil Drawing Exhibition"} src={logo}/>
+        </div>
+        <div className={"logo-container-mobile"}>
+          <img className={"site-logo-mobile"} alt={"International Pencil Drawing Exhibition"} src={logo_mobile}/>
         </div>
         <div className={"links-container"}>
           <ul>

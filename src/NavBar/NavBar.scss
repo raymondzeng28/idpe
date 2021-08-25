@@ -14,13 +14,17 @@ $accent1: #405c17;
     }
   }
 
+  .logo-container-mobile {
+    display: none;
+  }
+
   .links-container {
     flex-grow: 1;
 
     ul {
       list-style-type: none;
-      margin: 40px 40px 40px 0;
-      font-size: 17px;
+      margin: 42px 40px 40px 0;
+      font-size: 1em;
 
       li {
         display: inline;
@@ -36,6 +40,36 @@ $accent1: #405c17;
         a:hover {
           border-bottom: 1px solid $accent1;
         }
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .nav-bar {
+    display: block;
+
+    .logo-container {
+      display: none;
+    }
+
+    .logo-container-mobile {
+      display: block;
+
+      .site-logo-mobile {
+        display: block;
+        width: 600px;
+        margin: 10px auto 0 auto;
+      }
+    }
+
+    .links-container {
+      text-align: center;
+
+      ul {
+        margin: 20px 0;
+        padding-left: 0;
+        font-size: 0.8em;
       }
     }
   }
