@@ -8,7 +8,8 @@ class Artwork extends React.Component {
       pictureJSX: [],
       pictureStyle: {
         display: "block",
-        margin: "2em auto 0 auto"
+        margin: "2em auto 0 auto",
+        border: "1px solid white"
       },
       textStyle: {
         clear: "both",
