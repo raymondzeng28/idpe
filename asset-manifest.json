@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.c07e3e1f.chunk.css",
-    "main.js": "/static/js/main.33523098.chunk.js",
-    "main.js.map": "/static/js/main.33523098.chunk.js.map",
+    "main.css": "/static/css/main.5e17dad5.chunk.css",
+    "main.js": "/static/js/main.56eaf3ca.chunk.js",
+    "main.js.map": "/static/js/main.56eaf3ca.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1bb55af9.js",
     "runtime-main.js.map": "/static/js/runtime-main.1bb55af9.js.map",
     "static/js/2.4fd58e79.chunk.js": "/static/js/2.4fd58e79.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.714d7dcc.chunk.js": "/static/js/3.714d7dcc.chunk.js",
     "static/js/3.714d7dcc.chunk.js.map": "/static/js/3.714d7dcc.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.c07e3e1f.chunk.css.map": "/static/css/main.c07e3e1f.chunk.css.map",
+    "static/css/main.5e17dad5.chunk.css.map": "/static/css/main.5e17dad5.chunk.css.map",
     "static/js/2.4fd58e79.chunk.js.LICENSE.txt": "/static/js/2.4fd58e79.chunk.js.LICENSE.txt",
     "static/media/Andy_Rooster.jpg": "/static/media/Andy_Rooster.33ea9c77.jpg",
     "static/media/Bust.jpg": "/static/media/Bust.72aab692.jpg",
@@ -57,7 +57,7 @@
   "entrypoints": [
     "static/js/runtime-main.1bb55af9.js",
     "static/js/2.4fd58e79.chunk.js",
-    "static/css/main.c07e3e1f.chunk.css",
-    "static/js/main.33523098.chunk.js"
+    "static/css/main.5e17dad5.chunk.css",
+    "static/js/main.56eaf3ca.chunk.js"
   ]
 }
