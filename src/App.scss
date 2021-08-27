@@ -22,6 +22,12 @@ h2 {
   margin: 1em;
 }
 
+.block-quote {
+  color: $accent2;
+  text-align: center;
+  margin: 2em 0;
+}
+
 @media only screen and (max-width: 1000px) {
   .content {
     width: 800px;

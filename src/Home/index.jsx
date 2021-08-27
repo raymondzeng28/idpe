@@ -8,44 +8,84 @@ class Home extends React.Component {
     this.state = {
       pictures1: [
         {
-          orientation: `portrait`,
-          source: `Images/Test/bamboo_and_boats.jpg`,
+          orientation: `landscape`,
+          source: `Images/Home/refining_rice.jpg`,
+          height: null,
+          width: 630,
+          title: `Refining Rice`,
+          description: `Artist: Uncle Zeng`
+        },
+        {
+          orientation: `landscape`,
+          source: `Images/Home/Bust.jpg`,
           height: 550,
           width: null,
-          title: `Bamboo and Boats`,
-          description: `Artist: Xiangming Zeng`
+          title: `Sculpture`,
+          description: `Artist: Olivia Zeng`
         },
         {
           orientation: `landscape`,
-          source: `Images/Test/bamboo_and_cranes.jpg`,
+          source: `Images/Home/temple_by_the_sea.jpg`,
           height: null,
-          width: 650,
-          title: `Bamboo and Cranes`,
-          description: `Artist: Xiangming Zeng`
+          width: 630,
+          title: `Temple by the Sea`,
+          description: `Artist: Wing Guan`
         },
         {
-          orientation: `portrait`,
-          source: `Images/Test/bamboo_and_boats.jpg`,
+          orientation: `landscape`,
+          source: `Images/Home/an_art_student.jpg`,
           height: 550,
           width: null,
-          title: `Bamboo and Boats`,
-          description: `Artist: Xiangming Zeng`
+          title: `Art Student`,
+          description: `Artist: Uncle Zeng`
         },
         {
           orientation: `landscape`,
-          source: `Images/Test/blossom_village.jpg`,
-          height: null,
-          width: 600,
-          title: `Blossom Village`,
-          description: `Artist: Xiangming Zeng`
+          source: `Images/Home/a_laughing_gentleman.jpg`,
+          height: 550,
+          width: null,
+          title: `A Laughing Gentleman`,
+          description: `Artist: Olivia Zeng`
         },
         {
           orientation: `landscape`,
-          source: `Images/Test/chang_hua.JPG`,
+          source: `Images/Home/red_panda.jpg`,
           height: null,
-          width: 700,
-          title: `Chang Hua`,
-          description: `Some short description`
+          width: 630,
+          title: `Red Panda`,
+          description: `Artist: Uncle Zeng`
+        },
+        {
+          orientation: `landscape`,
+          source: `Images/Home/student.JPG`,
+          height: 550,
+          width: null,
+          title: `Student`,
+          description: `Artist: Olivia Zeng`
+        },
+        {
+          orientation: `landscape`,
+          source: `Images/Home/man_with_glasses.jpg`,
+          height: 550,
+          width: null,
+          title: `Man with Glasses`,
+          description: `Artist: Olivia Zeng`
+        },
+        {
+          orientation: `landscape`,
+          source: `Images/Home/a_bridge_in_europe.jpg`,
+          height: null,
+          width: 630,
+          title: `A Bridge in Europe`,
+          description: `Artist: Wing Guan`
+        },
+        {
+          orientation: `landscape`,
+          source: `Images/Home/mermaid.jpg`,
+          height: 550,
+          width: null,
+          title: `Mermaid`,
+          description: `Artist: Uncle Zeng`
         }
       ]
     };
@@ -54,7 +94,12 @@ class Home extends React.Component {
   render() {
     return (
       <div className="body-wide-content">
-        <h2>Home</h2>
+        <div className="block-quote">
+          <p><span style={{fontStyle: "italic"}}>
+            &quot;Drawing contains everything, except the hue.&quot;
+          </span></p>
+          <p>- Jean-Auguste-Dominique Ingres (French Neoclassical painter, 1780-1867)</p>
+        </div>
         <Gallery pictures={this.state.pictures1}/>
       </div>
     );

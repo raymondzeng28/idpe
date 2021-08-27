@@ -21,10 +21,10 @@ class App extends React.Component {
       {"name": "About", "route": "/about", "component": About},
       {"name": "Kids", "route": "/kids", "component": Kids},
       {"name": "Youth", "route": "/youth", "component": Youth},
-      {"name": "Professional", "route": "/professional", "component": Professional},
+      // {"name": "Professional", "route": "/professional", "component": Professional},
       {"name": "Hobbyist", "route": "/hobby", "component": Hobby},
       {"name": "Founder", "route": "/founder", "component": Founder},
-      {"name": "Other", "route": "/other", "component": Other}
+      // {"name": "Other", "route": "/other", "component": Other}
     ];
     this.state = {
       screenWidth: 0
