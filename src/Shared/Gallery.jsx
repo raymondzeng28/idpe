@@ -29,7 +29,7 @@ class Gallery extends React.Component {
         fontWeight: "bold"
       },
       separatorStyle: {
-        borderBottom: "1px solid #405c17",
+        borderBottom: "1px solid #cc7300",
         paddingTop: "0.6em",
         marginBottom: "1.8em"
       }
