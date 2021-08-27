@@ -98,7 +98,11 @@ class Home extends React.Component {
           <p><span style={{fontStyle: "italic"}}>
             &quot;Drawing contains everything, except the hue.&quot;
           </span></p>
-          <p>- Jean-Auguste-Dominique Ingres (French Neoclassical painter, 1780-1867)</p>
+          <p>
+            - Jean-Auguste-Dominique Ingres
+            {this.props.screenWidth < 800 ? <br/> : ' '}
+            (French Neoclassical painter, 1780-1867)
+          </p>
         </div>
         <Gallery pictures={this.state.pictures1}/>
       </div>

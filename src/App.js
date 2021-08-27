@@ -56,7 +56,7 @@ class App extends React.Component {
             <div className="content-body">
               <Switch>
                 <Route exact path="/">
-                  <Home />
+                  <Home screenWidth={this.state.screenWidth}/>
                 </Route>
                 <Route path="/about">
                   <About />
