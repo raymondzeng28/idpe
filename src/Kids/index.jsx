@@ -17,11 +17,19 @@ class Kids extends React.Component {
         },
         {
           orientation: `landscape`,
-          source: `Images/Kids/KexinOwls.jpg`,
+          source: `Images/Kids/Andy_Rooster.jpg`,
           height: null,
           width: 600,
-          title: `Owls`,
-          description: `Artist: Kexin W.`
+          title: `Rooster`,
+          description: `Artist: Andy D.`
+        },
+        {
+          orientation: `landscape`,
+          source: `Images/Kids/alinabridge.jpg`,
+          height: null,
+          width: 600,
+          title: `Bridge`,
+          description: `Artist: Alina J.`
         },
         {
           orientation: `landscape`,
@@ -30,6 +38,22 @@ class Kids extends React.Component {
           width: 600,
           title: `Pelicans`,
           description: `Artist: Rachel L.`
+        },
+        {
+          orientation: `landscape`,
+          source: `Images/Kids/helenrhinoceros.jpg`,
+          height: null,
+          width: 600,
+          title: `Rhinoceros`,
+          description: `Artist: Helen S.`
+        },
+        {
+          orientation: `landscape`,
+          source: `Images/Kids/KexinOwls.jpg`,
+          height: null,
+          width: 600,
+          title: `Owls`,
+          description: `Artist: Kexin W.`
         },
         {
           orientation: `landscape`,

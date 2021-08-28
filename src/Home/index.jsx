@@ -17,10 +17,10 @@ class Home extends React.Component {
         },
         {
           orientation: `landscape`,
-          source: `Images/Home/Bust.jpg`,
+          source: `Images/Home/student.JPG`,
           height: 550,
           width: null,
-          title: `Sculpture`,
+          title: `Student`,
           description: `Artist: Olivia Zeng`
         },
         {
@@ -65,10 +65,10 @@ class Home extends React.Component {
         },
         {
           orientation: `landscape`,
-          source: `Images/Home/student.JPG`,
+          source: `Images/Home/Bust.jpg`,
           height: 550,
           width: null,
-          title: `Student`,
+          title: `Sculpture`,
           description: `Artist: Olivia Zeng`
         },
         {
@@ -107,7 +107,9 @@ class Home extends React.Component {
             &quot;Art is the expression of the profoundest thoughts in the simplest way.&quot;
           </span></p>
           <p>
-            - Albert Einstein (German physicist, 1879-1955)
+            - Albert Einstein
+            {this.props.screenWidth < 800 ? <br/> : ' '}
+            (German-American physicist, 1879-1955)
           </p>
         </div>
         <Gallery pictures={this.state.pictures1}/>
