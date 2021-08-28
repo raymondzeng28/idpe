@@ -65,18 +65,18 @@ class About extends React.Component {
         },
         {
           orientation: `landscape`,
-          source: `Images/Youth/Ethan_Gao_Man.jpg`,
-          height: 550,
-          width: null,
-          title: `Man with Gratitude`,
+          source: `Images/Youth/ethandinosaur.jpg`,
+          height: null,
+          width: 630,
+          title: `Dinosaur`,
           description: `Artist: Ethan G.`
         },
         {
           orientation: `landscape`,
-          source: `Images/Youth/SelinaZhangPortrait.jpg`,
+          source: `Images/Youth/selinamonkey.jpg`,
           height: 550,
           width: null,
-          title: `Portrait`,
+          title: `Monkey`,
           description: `Artist: Selina Z.`
         },
         {

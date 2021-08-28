@@ -9,10 +9,10 @@ class Home extends React.Component {
       pictures1: [
         {
           orientation: `landscape`,
-          source: `Images/Home/refining_rice.jpg`,
+          source: `Images/Home/conductor.jpg`,
           height: null,
           width: 630,
-          title: `Refining Rice`,
+          title: `The Conductor`,
           description: `Artist: Uncle Zeng`
         },
         {
@@ -22,6 +22,14 @@ class Home extends React.Component {
           width: null,
           title: `Sculpture`,
           description: `Artist: Olivia Zeng`
+        },
+        {
+          orientation: `landscape`,
+          source: `Images/Home/zengdancinglady2.jpg`,
+          height: 550,
+          width: null,
+          title: `Dancing Lady`,
+          description: `Artist: Uncle Zeng`
         },
         {
           orientation: `landscape`,

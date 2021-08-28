@@ -78,14 +78,6 @@ class Kids extends React.Component {
           width: 600,
           title: `Seal`,
           description: `Artist: Zhongyu W.`
-        },
-        {
-          orientation: `landscape`,
-          source: `Images/Kids/RyanZhangRiverOtter.jpg`,
-          height: null,
-          width: 600,
-          title: `River Otter`,
-          description: `Artist: Ryan Z.`
         }
       ]
     };
