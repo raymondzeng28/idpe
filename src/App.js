@@ -62,23 +62,23 @@ class App extends React.Component {
                   <About screenWidth={this.state.screenWidth}/>
                 </Route>
                 <Route path="/kids">
-                  <Kids />
+                  <Kids screenWidth={this.state.screenWidth}/>
                 </Route>
                 <Route path="/youth">
-                  <Youth />
+                  <Youth screenWidth={this.state.screenWidth}/>
                 </Route>
-                <Route path="/professional">
-                  <Professional />
-                </Route>
+                // <Route path="/professional">
+                //   <Professional />
+                // </Route>
                 <Route path="/hobby">
-                  <Hobby />
+                  <Hobby screenWidth={this.state.screenWidth}/>
                 </Route>
                 <Route path="/founder">
-                  <Founder />
+                  <Founder screenWidth={this.state.screenWidth}/>
                 </Route>
-                <Route path="/other">
-                  <Other />
-                </Route>
+                // <Route path="/other">
+                //   <Other />
+                // </Route>
               </Switch>
             </div>
           </HashRouter>

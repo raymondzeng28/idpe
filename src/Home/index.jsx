@@ -104,12 +104,10 @@ class Home extends React.Component {
       <div className="body-wide-content">
         <div className="block-quote">
           <p><span style={{fontStyle: "italic"}}>
-            &quot;Drawing contains everything, except the hue.&quot;
+            &quot;Art is the expression of the profoundest thoughts in the simplest way.&quot;
           </span></p>
           <p>
-            - Jean-Auguste-Dominique Ingres
-            {this.props.screenWidth < 800 ? <br/> : ' '}
-            (French Neoclassical painter, 1780-1867)
+            - Albert Einstein (German physicist, 1879-1955)
           </p>
         </div>
         <Gallery pictures={this.state.pictures1}/>

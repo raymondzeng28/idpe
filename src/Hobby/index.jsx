@@ -38,6 +38,14 @@ class Hobby extends React.Component {
   render() {
     return (
       <div className="body-wide-content">
+        <div className="block-quote">
+          <p><span style={{fontStyle: "italic"}}>
+            &quot;Drawing is the artist’s most direct and spontaneous expression.&quot;
+          </span></p>
+          <p>
+            - Edgar Degas (French artist, 1834-1917)
+          </p>
+        </div>
         <h2>Hobbyist Category</h2>
         <Gallery pictures={this.state.pictures1}/>
       </div>

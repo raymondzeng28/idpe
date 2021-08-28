@@ -110,6 +110,16 @@ class About extends React.Component {
   render() {
     return (
       <div className="body-wide-content">
+        <div className="block-quote">
+          <p><span style={{fontStyle: "italic"}}>
+            &quot;Drawing contains everything, except the hue.&quot;
+          </span></p>
+          <p>
+            - Jean-Auguste-Dominique Ingres
+            {this.props.screenWidth < 800 ? <br/> : ' '}
+            (French painter, 1780-1867)
+          </p>
+        </div>
         <h2>Youth Category</h2>
         <Gallery pictures={this.state.pictures1}/>
       </div>

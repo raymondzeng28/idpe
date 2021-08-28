@@ -86,6 +86,14 @@ class Kids extends React.Component {
   render() {
     return (
       <div className="body-wide-content">
+        <div className="block-quote">
+          <p><span style={{fontStyle: "italic"}}>
+            &quot;Sketch everything and keep your curiosity fresh.&quot;
+          </span></p>
+          <p>
+            - John Singer Sargent (American painter, 1856-1925)
+          </p>
+        </div>
         <h2>Kids Category</h2>
         <Gallery pictures={this.state.pictures1}/>
       </div>

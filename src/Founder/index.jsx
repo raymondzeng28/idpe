@@ -57,7 +57,7 @@ class Founder extends React.Component {
         <h2>About the Founder</h2>
         <Artwork picture={ this.state.peachBlossomSpring }></Artwork>
         <p className="paragraph">
-          Uncle Zeng, also known as Xiangming Zeng, is an internationally recognized master of drawing, painting, and architecture. His watercolour, acrylic, and oil paintings have been shown in museums and galleries in many different countries. Two of his paintings are also in the permanent collection of the National Gallery of China.
+          Xiangming Zeng, also known as Uncle Zeng, is an internationally recognized master of drawing, painting, and architecture. His watercolour, acrylic, and oil paintings have been shown in museums and galleries in many different countries. Two of his paintings are also in the permanent collection of the National Gallery of China.
         </p>
         <Artwork picture={ this.state.summerGarden }></Artwork>
         <p className="paragraph">
