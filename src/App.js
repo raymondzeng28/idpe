@@ -59,7 +59,7 @@ class App extends React.Component {
                   <Home screenWidth={this.state.screenWidth}/>
                 </Route>
                 <Route path="/about">
-                  <About />
+                  <About screenWidth={this.state.screenWidth}/>
                 </Route>
                 <Route path="/kids">
                   <Kids />
