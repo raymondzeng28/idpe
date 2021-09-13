@@ -9,11 +9,35 @@ class Hobby extends React.Component {
       pictures1: [
         {
           orientation: `landscape`,
+          source: `Images/Hobby/amyhouse.jpg`,
+          height: null,
+          width: 630,
+          title: `Victorian House`,
+          description: `Artist: Amy C.`
+        },
+        {
+          orientation: `landscape`,
+          source: `Images/Hobby/reneecowboy.jpg`,
+          height: 550,
+          width: null,
+          title: `Cowboy`,
+          description: `Artist: Renee J.`
+        },
+        {
+          orientation: `landscape`,
           source: `Images/Hobby/Karen_Zou_Woman.jpg`,
           height: null,
           width: 630,
           title: `Woman with Sphere`,
           description: `Artist: Karen Z.`
+        },
+        {
+          orientation: `landscape`,
+          source: `Images/Hobby/aliciafisherwoman.jpg`,
+          height: 550,
+          width: null,
+          title: `Fisherwoman`,
+          description: `Artist: Alicia H.`
         },
         {
           orientation: `landscape`,
@@ -30,6 +54,14 @@ class Hobby extends React.Component {
           width: 630,
           title: `Bee`,
           description: `Artist: Jack L.`
+        },
+        {
+          orientation: `landscape`,
+          source: `Images/Hobby/kareldrawingofgirl.jpg`,
+          height: 550,
+          width: null,
+          title: `Girl`,
+          description: `Artist: Karel F.`
         }
       ]
     };
