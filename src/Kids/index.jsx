@@ -41,6 +41,14 @@ class Kids extends React.Component {
         },
         {
           orientation: `landscape`,
+          source: `Images/Kids/ethandinosaur.jpg`,
+          height: null,
+          width: 600,
+          title: `Dinosaur`,
+          description: `Artist: Ethan G.`
+        },
+        {
+          orientation: `landscape`,
           source: `Images/Kids/helenrhinoceros.jpg`,
           height: null,
           width: 600,

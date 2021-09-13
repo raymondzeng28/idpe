@@ -57,14 +57,6 @@ class About extends React.Component {
         },
         {
           orientation: `landscape`,
-          source: `Images/Youth/ethandinosaur.jpg`,
-          height: null,
-          width: 630,
-          title: `Dinosaur`,
-          description: `Artist: Ethan G.`
-        },
-        {
-          orientation: `landscape`,
           source: `Images/Youth/selinamonkey.jpg`,
           height: 550,
           width: null,
@@ -78,14 +70,6 @@ class About extends React.Component {
           width: 630,
           title: `Manta Ray`,
           description: `Artist: Lena L.`
-        },
-        {
-          orientation: `landscape`,
-          source: `Images/Youth/SelinaFuDog.jpg`,
-          height: 550,
-          width: null,
-          title: `Dog`,
-          description: `Artist: Selina F.`
         },
         {
           orientation: `landscape`,
