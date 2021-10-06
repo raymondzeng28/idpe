@@ -49,6 +49,14 @@ class About extends React.Component {
         },
         {
           orientation: `landscape`,
+          source: `Images/Youth/kelly_w_portrait.jpg`,
+          height: null,
+          width: 630,
+          title: `Portrait`,
+          description: `Artist: Kelly W.`
+        },
+        {
+          orientation: `landscape`,
           source: `Images/Youth/Lindsay_Yan_School_Supplies.jpg`,
           height: null,
           width: 630,

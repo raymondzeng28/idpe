@@ -27,13 +27,6 @@ class Founder extends React.Component {
         title: `Foggy Sails`,
         description: `by Uncle Zeng`
       },
-      foggySails: {
-        source: `Images/Founder/zengfoggysails.jpg`,
-        height: null,
-        width: 650,
-        title: `Foggy Sails`,
-        description: `by Uncle Zeng`
-      },
       summerGarden: {
         source: `Images/Founder/summer.JPG`,
         height: null,

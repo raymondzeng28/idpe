@@ -33,11 +33,27 @@ class Kids extends React.Component {
         },
         {
           orientation: `landscape`,
-          source: `Images/Kids/RachelLiuPelicans.jpg`,
+          source: `Images/Kids/rachel_l_swan.jpg`,
+          height: 550,
+          width: null,
+          title: `Swan`,
+          description: `Artist: Rachel L.`
+        },
+        {
+          orientation: `landscape`,
+          source: `Images/Kids/zhongyu_w_fish.jpg`,
           height: null,
           width: 600,
-          title: `Pelicans`,
-          description: `Artist: Rachel L.`
+          title: `Fish`,
+          description: `Artist: Zhongyu W.`
+        },
+        {
+          orientation: `landscape`,
+          source: `Images/Kids/ryan_z_pelican.jpg`,
+          height: 550,
+          width: null,
+          title: `Pelican`,
+          description: `Artist: Ryan Z.`
         },
         {
           orientation: `landscape`,
@@ -102,14 +118,6 @@ class Kids extends React.Component {
           width: 600,
           title: `Gemsbok`,
           description: `Artist: Tony L.`
-        },
-        {
-          orientation: `landscape`,
-          source: `Images/Kids/Zhongyu_Seal.jpg`,
-          height: null,
-          width: 600,
-          title: `Seal`,
-          description: `Artist: Zhongyu W.`
         }
       ]
     };

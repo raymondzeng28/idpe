@@ -57,6 +57,14 @@ class Hobby extends React.Component {
         },
         {
           orientation: `landscape`,
+          source: `Images/Hobby/julie_l_lady.jpg`,
+          height: 550,
+          width: null,
+          title: `Lady`,
+          description: `Artist: Julie L.`
+        },
+        {
+          orientation: `landscape`,
           source: `Images/Hobby/kareldrawingofgirl.jpg`,
           height: 550,
           width: null,

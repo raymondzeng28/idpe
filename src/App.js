@@ -1,6 +1,5 @@
 import React from 'react';
-import {Redirect} from "react-router";
-import {HashRouter, Link, Switch, Route} from "react-router-dom";
+import {HashRouter, Switch, Route} from "react-router-dom";
 import './App.scss';
 import NavBar from "./NavBar/NavBar";
 import Home from "./Home/index";
